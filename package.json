@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-operators-wrapper",
+  "version": "1.0.0",
+  "description": "RxJS wrapper that exports rxjs/operators as rxjs-operatos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazywei/rxjs-operators.git"
+  },
+  "author": "Chih-Wei Chang <cwchang@fb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lazywei/rxjs-operators/issues"
+  },
+  "homepage": "https://github.com/lazywei/rxjs-operators#readme",
+  "dependencies": {
+    "rxjs": "^6.2.2"
+  }
+}
