@@ -1,6 +1,6 @@
 {
   "name": "rxjs-operators-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RxJS wrapper that exports rxjs/operators as rxjs-operatos",
   "main": "index.js",
   "scripts": {
